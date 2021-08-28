@@ -1,0 +1,411 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+body{
+    font-size: 14px;
+    line-height: 1.42857;
+    background-color: black;
+    color: white;
+    font-family: open sans;
+    text-align: center;
+}
+.fa-bars{
+    position: relative;
+    font-size: 30px;
+    top: -50px;
+    padding-top: 70px;
+}
+header{
+    font-size: 80px;
+    color: lightyellow;
+    top: -20px;
+    position: relative;
+}
+h1{
+    color: lightyellow;
+}
+h2{
+    color: lightyellow;
+    font-size: 20px;
+
+}
+.girl{
+    border-radius: 50%;
+    width: 400px;
+    height: 400px;
+    
+}
+.article{
+    position: relative;
+    width: 670px;
+    left: 90px;
+    line-height: 2em;
+}
+p{
+    font-weight: 10px ;
+    margin: auto 400px;
+}
+.mid-section{
+    margin-left:140px;
+    margin-right:200px;
+    display: flex;
+    /* background-color: rosybrown; */
+    width: 1200px;
+}
+.extraH{
+    position: relative;
+    font-size: 50px; 
+    top: 60px;  
+}
+.samph{
+    position: absolute;
+    width: 150px;
+    /* background-color: red; */
+}
+.dwell{
+    position: absolute;
+    /* position: relative; */
+    /* background-color: red; */
+    width: 600px;
+}
+.prince{
+    position: relative;
+    top: 100px;
+    font-size: 17px;
+    line-height: 1em;
+    width: 400px;
+    /* background-color: rosybrown; */
+}
+.fa-arrow-down{
+    position: relative;
+    font-size: 100px;
+}
+.fa-long-arrow-alt-down{
+    font-size: 300px;
+}
+.mid-right{
+    position: relative;
+margin: 10px;
+top: 50px;
+left: 40px;
+text-align: left;
+line-height: 2em;
+width: 800px;
+/* background-color: rosybrown; */
+}
+.mid-left{
+    position: relative;
+    /* top: 200px; */
+    margin-left: -40px;
+    width: 1000px;
+    /* background-color: blue; */
+    font-size: 30px;
+    line-height: -2em;
+    text-align: left;
+    top: 13px;
+    }
+.mid-left2{
+        margin-left: px;
+        text-align: left;
+        font-size: 9px;
+        line-height: 3em;
+        width: 1000px;
+        }
+.mid-right2{
+    margin-top: 10px;
+    margin-left: 90px;
+    line-height: 2em;
+    text-align: left;
+    width: 1000px;
+}
+.mid-section{
+    position: relative;
+    top: 40px;
+    left: 90px;
+}
+.sub{
+    font-size: 14px;
+    position: relative;
+}
+.sign{
+    width: 150px;
+}
+.loc{
+    font-size: 22px;
+}
+.fa-whatsapp{
+    position: relative;
+    top: 10px;
+    left: 110px;
+    font-size: 40px;
+}
+.chat{
+    position: relative;
+    /* background-color: yellow; */
+    top: -40px;
+    width: 100px;
+    left: 970px;
+}
+ .big1{
+     font-size: 100px;   
+ }
+.arrow{
+    color: lightyellow;
+    border: white;
+    height: 1px;
+}
+
+ .line{
+     border: 1px solid pink;   
+ }
+ .line1{
+    border-bottom: 10px solid pink;   
+    width: 200px;
+    padding-bottom: 20px;
+
+}
+
+
+ .pic-grid{
+     display: flex;
+     margin: 20px;
+     left: 78px;
+     position: relative;
+ }
+ .pic-segment1{
+     width: 400px;
+     margin-left: 80px;
+     border-radius: 40px;
+     
+     height: 350px;
+     padding: 10px;
+     transition: transform .2s;
+ }
+ .pic-segment1:hover{
+    transform: scale(1.1);
+ }
+ .pic-segment2{
+    width: 400px;
+    margin-left: 25px;
+   
+    border-radius: 40px;
+    height: 350px;
+    padding: 10px;
+    transition: transform .2s;
+}
+.pic-segment2:hover{
+    transform: scale(1.1);
+}
+
+.pic-segment3{
+    width: 400px;
+    margin-left: 25px;
+    border-radius: 40px;
+    height: 350px;
+    padding: 10px;
+    transition: transform .2s;
+}
+.pic-segment3:hover{
+    transform: scale(1.1);
+}
+.picSegment{
+    right: 200px;
+
+}
+.table{
+    text-align: center;
+    right: 200px;
+    background: red;
+}
+ button{
+     border: 1px pink solid;
+     background-color:#333333 ;
+     font-size: 20px;
+     color: pink;
+     padding: 15px;
+     width: 200px;
+ }
+ button:hover{
+     background-color: white;
+     color: black;
+     font-weight: bolder;
+     cursor: pointer;
+ }
+ .mid2-section{
+     display: flex;
+ }
+ img{
+     width: 100px;  
+ }
+
+ .cat{
+     border-radius: 50%;
+     width: 200px;
+     height: 180px;
+ }
+
+ footer{
+     background: #333333;
+     height: 200px;
+     margin: 0px;
+     padding-top: 10px;
+     top: 70px;
+     position: relative;
+     width: 1678px;
+ }
+ .text1{
+     position: relative;
+     width: 400px;
+     left: 230px;
+     top: 30px;
+ }
+ .links{
+     position: relative;
+     top: 90px;
+ }
+ .icon{
+     position: relative;
+     top: 20px;
+ }
+ .fa-facebook-f{
+     position: relative;
+     font-size: 50px;
+     left: -50px;
+ }
+ .fa-twitter{
+    font-size: 50px;
+ }
+ .fa-instagram{
+     position: relative;
+     font-size: 50px;
+     left: 50px;
+ }
+
+
+
+ @media(max-width: 800px){
+     .fa-bars{
+         left: 0px;
+     }
+     .bio{
+         font-size: 42px;
+         left: 4px;
+     }
+     .girl{
+        width: 200px;
+        height: 200px;
+     }
+     .article{
+         left: -378px;
+         font-size: 10px;
+         width: 300px;
+     }
+     .mid-left{
+         position: relative;
+         font-size: 12px;
+         left: 62px;
+         width: 342px;
+         height: 300px;
+     }
+      .mid-right{
+         width: 270px;
+     } 
+     .dwell{
+         position: relative;
+        left: -130px;
+        font-size: 22px;
+        top: 250px;
+        width: 290px;
+     }
+     .prince{
+         font-size: 10px;
+         width: 20px;
+         left: -120px;
+         top: 225px;
+     }
+     .fa-whatsapp{
+         top: 300px;
+         left: -70px;
+     }
+     .chat{
+         left: 130px;
+         top: 250px;
+     }
+     .big1{
+         position: relative;
+         top: 100px;
+     }
+     .line{
+         position: relative;
+         width: 20em;
+         left: -370px;
+         top: 43px;
+     }
+     .extraH{
+         font-size: 22px;
+         top: 22px;
+     }
+     .pic-grid{
+         left: -113px;
+     }
+     .pic-segment1{
+         width: 100px;
+         height: 100px;
+     }
+     .pic-segment2{
+        width: 100px;
+        height: 100px;
+        left: -20px;
+        position: relative;
+    }
+    .pic-segment3{
+        width: 100px;
+        height: 100px;
+        left: -40px;
+        position: relative;
+    }
+    .mid-left2{
+        position: relative;
+        width: 300px;
+        left: -200px;
+    }
+    .bring{
+        position: relative;
+        left: 188px;
+        width: 340px;
+        text-align: center;
+    }
+    .sub{
+        left: 212px;
+        width: 10px;
+        text-align: center;
+    }
+    .mid-right2{
+        position: absolute;
+        top: 550px;
+        width: 350px;
+        height: 300px;
+        left: -110px;
+    }
+    .sign{
+        position: absolute;
+        left: 100px;
+        top: 310px;
+    }
+    .stager{
+        position: relative;
+        top: 500px;
+    }
+    footer{
+        top: 550px;
+        width: 360px;
+        left: -10px;
+    }
+    .text1{
+        left: -340px;
+        width: 240px;
+    }
+    .mid-section{
+        width: 300px;
+        left: -120px;
+    }
+ }
+ 
